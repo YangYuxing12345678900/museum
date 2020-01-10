@@ -44,16 +44,16 @@
 1.首页
 - 首页设置两个大控件，方便视障者操作，不因控件小而达不到相应的交互效果。
 
-[首页](https://github.com/YangYuxing12345678900/museum/blob/master/首页.PNG)
+![首页](https://github.com/YangYuxing12345678900/museum/blob/master/首页.PNG)
 
 2.识别功能(核心)
 - 可以点击相机图标的控件，就可对相应信息拍照识别。拍照，的到照片调用【图片识别api】或【文字识别api】实现识别功能，通过识别到的内容，调用【语音合成api】转音频，方便视障者了解内容信息。另外，通过语音输入，也可以指挥做到相应的功能
 
-[识别](https://github.com/YangYuxing12345678900/museum/blob/master/识别.PNG)
+![识别](https://github.com/YangYuxing12345678900/museum/blob/master/识别.PNG)
 
 ### 信息设计
 
-[信息架构图](https://github.com/YangYuxing12345678900/museum/blob/master/信息架构.PNG)
+![信息架构图](https://github.com/YangYuxing12345678900/museum/blob/master/信息架构.PNG)
 
 ### 原型文档
 
